@@ -120,6 +120,26 @@ body{
 			color: rgb(55, 163, 55);
 		}
 
+		#kimage {
+			background: url(./images/km.jpg);
+			
+			
+		}
+
+		
+
+		#para {
+			font-style: oblique;
+			font-size: 20px;
+			color: red;
+		}
+
+		#ktext {
+			color: #2196F3;
+			font-size: 20px;
+			padding: 5px;
+		}
+
       
 		footer{
 			background-color: #094462;
